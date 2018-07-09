@@ -110,8 +110,6 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="RoleManager.aspx" />
-    <Content Include="scripts\ai.0.22.9-build00167.js" />
-    <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="UsersList.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
